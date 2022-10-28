@@ -8,7 +8,7 @@ app.use(cors());
 const courses = require('./data/courses.json')
 
 app.get('/', (req, res) => {
-    res.send('NEWS API Running')
+    res.send('platinam-tutorial-server Running')
 });
 
 app.get('/courses', (req, res) => {
