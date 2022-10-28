@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Python Programming",
+        "price": 50,
+        "description": "Python is among the latest and most popular object-oriented, multifunctional programming languages. It is easy to learn, and you can use several operating systems, such as UNIX, to interpret it. While using Python, it is easy to debug the code as there are no developing steps, and the cycle to test debugging is fast as well. Python is one of the most preferred languages because it can easily be integrated with Machine Learning systems.",
+        "category": "",
+        "image": "https://contentstatic.techgig.com/thumb/msid-79386213,width-460,resizemode-4/5-Myths-around-Python-programming-language-that-every-programmer-must-know.jpg?88712"
+    },
+    {
+        "id": 2,
+        "title": "Java Programming",
+        "price": 30,
+        "description": "Java is among the most secure and powerful languages in the world. There are millions of apps across cell phones, smartphones, etc., that run on this platform. If you had opted for computer applications in your school, you might have studied the basics of this language at a young age. Most schools have started to teach Java so that those who wish to learn this language have a good foundation of the basics of the language. Java is portable, robust, and secure, making it one of the most used object-oriented programming languages in the software development industry. Java is highly in demand when it comes to developing new applications and maintaining old applications that were built on Java.",
+        "category": "",
+        "image": "https://i.pcmag.com/imagery/articles/03mYCJkIdptJX1Soh08tBzt-1..v1630572092.jpg"
+    },
+    {
+        "id": 3,
+        "title": " JavaScript Course",
+        "price": 40,
+        "description": "If you want to work in the field of web development, irrespective of the specialization, you need to begin by learning JavaScript and gaining working experience in it. In this domain, recruiters expect you to know the working of JavaScript and its core concepts. To become a Full Stack Developer or get any other job role in web development, you must start by taking up one of the best online programming courses on JavaScript. JavaScript will help you gain in-depth knowledge of IIFE, inheritances, closures, and more. Besides, working on JavaScript-based projects will make you an expert in debugging codes without any external help.",
+        "category": "",
+        "image": "https://miro.medium.com/max/1400/1*5eV1xmJs2-sJ4DdejfdnQA.png"
+    },
+    {
+        "id": 4,
+        "title": "C Programming Course",
+        "price": 10,
+        "description": "C programming is among the most used computer languages. It is an easy structured language to learn. It allows you to create efficient programs, work on low-level activities, compile code on a range of platforms, and more. This programming language is used in language compilers, text editors, assemblers, databases, etc. C is also the middle-level language that supports both lower-level and upper-level languages",
+        "category": "",
+        "image": "https://online.crbtech.in/wp-content/uploads/2019/03/C-programming-1024x530.png"
+    },
+    {
+        "id": 5,
+        "title": "Node.js Course",
+        "price": 20,
+        "description": "If you are interested in building real-world applications by using a network, Node.js is the perfect way to go about it. By gaining expert knowledge in software such as Mocha, Express, and MongoDB, you will have the ability to create, test, and deploy several real-time production applications. Before becoming a Node.js developer, you need to become an expert in the required platforms.",
+        "category": "",
+        "image": "https://1.bp.blogspot.com/-O7U3kPgZsik/XUBCWoA_mvI/AAAAAAAAZ34/wDi_-9Ix34EZVUQ4vdaVaUkt5pttWZ0LwCLcBGAs/w1200-h630-p-k-no-nu/Node%2BJS%2BAPI%2BDevelopment%2Bfor%2BBeginners%2BUdemy%2Bfree%2Bcourse.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Linux Programming",
+        "price": 25,
+        "description": "Linux is an open-source operating system kernel, which is the predecessor of UNIX. The kernel is the core component of any operating system as it handles the communication between the system’s hardware and software components. Linux is compatible with a varied range of programming languages including C++, Java, Perl, etc. Linux allows developers to build applications, programs, software, and interfaces. Linux code is often used in real-time programs, desktops, and embedded systems.",
+        "category": "",
+        "image": "https://w0.peakpx.com/wallpaper/267/730/HD-wallpaper-night-tux-antarctic-linux-penguin.jpg"
+    }
+]
